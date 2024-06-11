@@ -1863,7 +1863,7 @@ MonoBehaviour:
   noPackageColor:
     serializedVersion: 2
     rgba: 4294967295
-  destroyDelay: 0
+  destroyDelay: 0.5
 --- !u!1 &617390897
 GameObject:
   m_ObjectHideFlags: 0
